@@ -1,6 +1,6 @@
 # Portfolio
 
-## Descrpition:
+## Description:
 
 This is a portfolio of myself for the purpose of demonstrating my knowledge in web development and 
 my continued growth in the subject. The portfolio is a multi-page website that currently contains
