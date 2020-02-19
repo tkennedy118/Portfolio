@@ -41,11 +41,28 @@
 
     <!-- main contents of page -->
     <main>
-        <div class="container p-0">
+        <div class="container p-3">
 
             <!-- page heading -->
-            <h2 role="heading" class="text-center mt-3 border-bottom border-primary">Contact</h2>
+            <h2 role="heading" class="text-center border-bottom border-primary">Contact</h2>
 
+            <!-- begin form -->
+            <form>
+                <div class="form-group">
+                    <label for="formContactName">Name</label>
+                    <input type="text" class="form-control" id="formContactName" placeholder="Harry Potter">
+                </div>
+                <div class="form-group">
+                    <label for="formContactEmail">Email</label>
+                    <input type="text" class="form-control" id="formContactEmail" placeholder="youremail@gmail.com">
+                </div>
+                <div class="form-group">
+                    <label for="formTextArea">Message</label>
+                    <textarea class="form-control" id="formTextArea" rows="3" placeholder="What are you contacting me about?"></textarea>
+                </div>
+                <button type="submit" class="btn btn-primary">Send</button>
+            </form>
+            <!-- end form -->
         </div>
     </main>
 
