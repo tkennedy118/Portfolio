@@ -13,3 +13,20 @@ body {
     margin-left: 1rem;
     margin-right: 1rem;
 }
+
+.cus-bg {
+    background-color: #3f2a88;
+}
+
+.cus-border-bottom {
+    border-bottom: 2px solid #beadfc;
+}
+
+.cus-bg-footer {
+    background-color: #d6d7dc;
+}
+
+.cus-icon-color {
+    color: #3f2a88;
+}
+
