@@ -14,6 +14,7 @@ body {
     margin-right: 1rem;
 }
 
+/* Used for custom colors, borders, etc...  */
 .cus-bg {
     background-color: #3f2a88;
 }
@@ -30,3 +31,10 @@ body {
     color: #3f2a88;
 }
 
+.cus-btn {
+    color: #fff;
+    background-color: #3f2a88;
+    border-color: #3f2a88;
+    border-radius: 0;
+}
+/********************************************/
