@@ -15,15 +15,9 @@ incorporate other technologies and frameworks as it progresses.
 
 ## Screenshots of Application:
 
-### index.html
-![Image description](link-to-image)
-
-### contact.html
-![Image description](link-to-image)
-
-
-### portfolio.html
-![Image description](link-to-image)
+![About](./resources/images/p-about.png)
+![Portfolio](./resources/images/p-portfolio.png)
+![Contact](resources/images/p-contact.png)
 
 ## Link to Deployed Applicaton:
 
