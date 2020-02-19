@@ -19,4 +19,4 @@ Coming soon.
 
 ## Link to Deployed Applicaton:
 
-Coming soon.
+[Tyler Kennedy - Portfolio](https://tkennedy118.github.io/Portfolio/.)
